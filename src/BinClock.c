@@ -5,8 +5,8 @@
  * Further Modified By: Mark Njoroge 
  *
  * 
- * <PTLAKH001> <STUDNUM_2>
- * Date
+ * <PTLAKH001> <MBKTAK003>
+ * 21 August 2021
 */
 
 #include <signal.h> //for catching signals
